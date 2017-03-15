@@ -1,5 +1,6 @@
 # discord_cleverbot
 ### Simple cleverbot script running with nodejs
+[![npm](https://img.shields.io/npm/v/npm.svg)]()[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 ---
 ##### Install
