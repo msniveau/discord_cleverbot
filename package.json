@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashleygwilliams/my_package.git"
+    "url": "https://github.com/msniveau/discord_cleverbot.git"
   },
   "keywords": [],
   "author": "Bastian Heitmann <msniveau>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashleygwilliams/my_package/issues"
+    "url": "https://github.com/msniveau/discord_cleverbot/issues"
   },
   "dependencies" : {
       "discord.io": "*"
   },
-  "homepage": "https://github.com/ashleygwilliams/my_package"
+  "homepage": "https://github.com/msniveau/discord_cleverbot"
 }
