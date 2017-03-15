@@ -1,0 +1,23 @@
+{
+  "name": "discord_cleverbot",
+  "description": "cleverbot for discord",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "start": "nodejs client.js && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "keywords": [],
+  "author": "Bastian Heitmann <msniveau>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "dependencies" : {
+      "discord.io": "*"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my_package"
+}
