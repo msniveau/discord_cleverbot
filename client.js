@@ -18,7 +18,7 @@ bot.on('ready', function() {
     console.log('Logged in as %s - %s\n', bot.username, bot.id);
 });
 bot.on('message', function(user, userID, channelID, message, event) {
-    if (message.substring(0,1) === config.cleverbot.indicator) {
+    if (message.substring(0,config.cleverbot.indicator.length) === config.cleverbot.indicator) {
         request({
             url: cleverbot.apiurl +
                  "?key=" +
